@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class program41
+class program07
 {
     static void CheckDivisible(int iNo)
     {
