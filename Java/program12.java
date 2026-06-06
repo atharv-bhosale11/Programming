@@ -16,7 +16,7 @@ class NumberX
     }
 }
 
-class program47
+class program12
 {
     public static void main(String A[]) 
     {
