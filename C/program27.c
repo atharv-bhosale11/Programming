@@ -1,0 +1,30 @@
+#include<stdio.h>
+
+void Display(int iNo)
+{   
+    int iCnt = 0;
+    
+    // Updater
+    if(iNo < 0)
+    {
+        iNo = -iNo;
+    }
+
+    for (iCnt=1; iCnt<=iNo ; iCnt++)
+    {
+        printf("Jay Ganesh!!!\n");
+    }
+}
+
+int main()
+{
+    int iCnt = 0;
+    int iValue = 0;
+
+    printf("Enter the Frequency: ");
+    scanf("%d",&iValue);
+
+    Display(iValue);
+
+    return 0;
+}
