@@ -11,7 +11,7 @@ class program05
         int iValue = 0;
 
         System.out.println("Enter the No: ");
-        iValue = sobj.nextInt();
+        iValue = sobj.nextInt(); 
 
         if((iValue % 3 == 0) && (iValue % 5 == 0))
         {
