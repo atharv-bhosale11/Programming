@@ -1,6 +1,6 @@
 class program03
 {
-    public static void main(String A[]) 
+    public static void main(String A[])  
     {
       int iCnt = 0;
 
