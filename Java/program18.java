@@ -11,7 +11,7 @@ class NumberX
         for(iCnt = 2; iCnt <= (iNo/2); iCnt++)
         {
             if ((iNo % iCnt == 0))
-            {
+            { 
                bFlag = false;
                break;
             }
