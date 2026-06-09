@@ -4,7 +4,7 @@ import java.util.*;
 
 class NumberX
 {
-    public static boolean CheckDivisible(int iNo)
+    public static boolean CheckDivisible(int iNo) 
     {
         if((iNo % 3 == 0) && (iNo % 5 == 0))
         {
