@@ -1,7 +1,7 @@
 import java.util.*;
 
 class NumberX
-{
+{ 
     public void SumFactors(int iNo)
     {
         // Logic
