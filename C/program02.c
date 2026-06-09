@@ -2,7 +2,7 @@
 
 int main()
 {
-    int i,j,k;
+    int i,j,k; 
 
     printf("Enter First Number: \n");
     scanf("%d",&i);
