@@ -5,7 +5,7 @@ import java.util.*;
 class program06
 {
     void CheckDivisible(int iNo)
-    {
+    { 
         if((iNo % 3 == 0) && (iNo % 5 == 0))
         {
             System.out.println("Number is Divisible by 3 and 5");
