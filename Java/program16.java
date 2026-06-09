@@ -4,7 +4,7 @@ class NumberX
 {
     public boolean CheckPrime(int iNo)
     {
-        // Logic
+        // Logic 
         int iCnt = 0;
 
         for(iCnt = 2; iCnt <= (iNo/2); iCnt++)
