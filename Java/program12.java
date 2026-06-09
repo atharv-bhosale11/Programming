@@ -12,7 +12,7 @@ class NumberX
             {
                 System.out.println(iCnt);
             }
-        }
+        } 
     }
 }
 
