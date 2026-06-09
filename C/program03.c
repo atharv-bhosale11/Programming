@@ -6,7 +6,7 @@
         Accept the second number as No2
         Perform the addtion of No1 and No2
         Display the Results
-    STOP
+    STOP 
 */
 
 
