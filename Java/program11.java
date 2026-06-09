@@ -3,7 +3,7 @@ import java.util.*;
 class NumberX
 {
     public void DisplayFactors(int iNo)
-    {
+    { 
         // Logic
         int iCnt = 0;
         for(iCnt = 1; iCnt<iNo; iCnt++)
