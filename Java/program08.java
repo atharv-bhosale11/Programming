@@ -4,7 +4,7 @@ import java.util.*;
 
 class program08
 {
-    public static void CheckDivisible(int iNo)
+    public static void CheckDivisible(int iNo) 
     {
         if((iNo % 3 == 0) && (iNo % 5 == 0))
         {
