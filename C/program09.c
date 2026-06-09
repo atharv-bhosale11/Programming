@@ -31,7 +31,7 @@ int main()
     scanf("%d",&iValue);
 
     iRemainder = iValue % 2;
-
+ 
     if (iRemainder == 0)
     {
         printf("Number is Even\n");
