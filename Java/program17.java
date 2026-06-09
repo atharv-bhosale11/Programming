@@ -6,7 +6,7 @@ class NumberX
     {
         // Logic
         int iCnt = 0;
-
+ 
         for(iCnt = 2; iCnt <= (iNo/2); iCnt++)
         {
             if ((iNo % iCnt == 0))
