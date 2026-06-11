@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// User Define Macro
+// User Define Macro 
 
 # define AGE_INVALID -1
 int CalculateTicketPrice(int iAge)
