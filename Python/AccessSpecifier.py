@@ -1,4 +1,4 @@
-class Demo:
+class Demo: 
     def __init__(self):
         self.No1=10     #Public
         self._No2=20    #Protected
