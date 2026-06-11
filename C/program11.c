@@ -12,7 +12,7 @@ int main()
 {
     int iValue =0;
     int iRet=0;
-
+ 
     printf("Enter Number: \n");
     scanf("%d",&iValue);
 
