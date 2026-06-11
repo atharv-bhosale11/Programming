@@ -6,7 +6,7 @@ class ArrayX
 {
     public:
         int *Arr;
-        int iSize;
+        int iSize; 
 
         // parametrized constructor
         ArrayX(int X)
