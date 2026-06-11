@@ -4,7 +4,7 @@ int main()
 {
     int iCnt = 0;
     int iValue = 0;
-
+ 
     printf("Enter the Frequency: ");
     scanf("%d",&iValue);
 
