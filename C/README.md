@@ -1,5 +1,5 @@
 # C Programming Concepts
-
+ 
 This repository contains C programs ranging from fundamental to advanced programming concepts. The purpose of this repository is to practice C programming, strengthen problem-solving skills, and build a solid foundation in structured and modular programming.
 
 ## Topics Covered
