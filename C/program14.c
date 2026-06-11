@@ -7,7 +7,7 @@ bool CheckEvenOdd(int iNo)
     {
         return true;
     }
-    else
+    else 
     {
         return false;
     }
