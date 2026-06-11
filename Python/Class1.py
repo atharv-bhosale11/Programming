@@ -4,6 +4,6 @@ class Demo:
     def __del__(self):
         print("Inside Destructor")
 
-obj=Demo()
+obj=Demo() 
 
 print("End of Application")
