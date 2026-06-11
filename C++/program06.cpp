@@ -3,7 +3,7 @@ using namespace std;
 
 class ArrayX
 {   
-    public:
+    public: 
     
     int Summation(int Arr[], int iSize)
     {
