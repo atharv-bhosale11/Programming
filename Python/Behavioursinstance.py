@@ -7,7 +7,7 @@ class Demo:
 
     def fun(self):
         print("Inside Instance method fun",self.Value1,self.Value2)
-
+ 
     @classmethod
     def sun(cls):
         print("Inside Class Method Sun",cls.No)    
