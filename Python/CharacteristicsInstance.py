@@ -6,7 +6,7 @@ class Demo:
 
     def __init__(self):
         #Instance Variables
-        self.A=101
+        self.A=101 
         self.B=201
         print("Inside Constuctor")
 
