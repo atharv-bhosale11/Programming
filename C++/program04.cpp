@@ -5,7 +5,7 @@ int Summation(int Arr[], int iSize)
 {
     int iCnt = 0, iSum = 0;
 
-    for(iCnt = 0; iCnt < iSize; iCnt++)
+    for(iCnt = 0; iCnt < iSize; iCnt++) 
     {    
         iSum = iSum + Arr[iCnt];
     }
