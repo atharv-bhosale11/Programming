@@ -9,7 +9,7 @@ class ArrayX
         int iSize;
 };
 
-int main()
+int main() 
 {   
     ArrayX aobj;
 
