@@ -5,7 +5,7 @@ using namespace std;
 class ArrayX
 {
     public:
-        int *Arr;
+        int *Arr; 
         int iSize;
 
         ArrayX(int X)
