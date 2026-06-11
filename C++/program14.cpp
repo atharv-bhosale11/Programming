@@ -4,7 +4,7 @@ using namespace std;
 #pragma pack(1)
 class ArrayX
 {
-    public:
+    public: 
         int *Arr;
         int iSize;
 
