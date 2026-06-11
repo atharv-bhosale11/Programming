@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int CalculateTicketPrice(int iAge)
+int CalculateTicketPrice(int iAge) 
 {   
     // Input Filter
     if(iAge < 0)
