@@ -16,7 +16,7 @@ int main()
     for(iCnt = 0; iCnt < iLength; iCnt++)
     {
         cin>>Brr[iCnt];
-    }
+    } 
 
     cout<<"Elements of Array:\n";
 
