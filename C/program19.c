@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+ 
 int CalculateTicketPrice(int iAge)
 {   
     // Input Filter
