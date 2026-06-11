@@ -4,7 +4,7 @@
 bool CheckEvenOdd(int iNo)
 {
     int iRemainder=0;
-    iRemainder = iNo % 2;
+    iRemainder = iNo % 2; 
     
     if (iRemainder == 0)
     {
