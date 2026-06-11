@@ -4,7 +4,7 @@ using namespace std;
 class ArrayX
 {   
     // Access Specifier of Summation is PRIVATE
-
+ 
     int Summation(int Arr[], int iSize)
     {
         int iCnt = 0, iSum = 0;
