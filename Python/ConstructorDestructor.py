@@ -5,7 +5,7 @@ class Demo:
         print("Inside Constuctor")
 
     def __del__(self):
-        print("Inside Destructor")
+        print("Inside Destructor") 
 
 #Allocate
 obj=Demo()
