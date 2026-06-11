@@ -6,7 +6,7 @@ int main()
 
     for (iCnt=1; iCnt<=11; iCnt++)
     {
-        printf("Jay Ganesh!!!\n");
+        printf("Jay Ganesh!!!\n"); 
     }
 
     return 0;
