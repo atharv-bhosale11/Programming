@@ -3,6 +3,6 @@ class Parent1:
 
 class Parent2:
     pass
-
+ 
 class child(Parent1,Parent2):
     pass
