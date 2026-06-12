@@ -5,7 +5,7 @@ def checkeven(No):
 
 def main():         #(user interaction should be with main)
     value=0
-    Ret = False     #(ret i.e. result)
+    Ret = False     #(ret i.e. result) 
     value = int(input("Enter the number: "))
 
     Ret= checkeven(value)
