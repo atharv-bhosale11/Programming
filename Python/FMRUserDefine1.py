@@ -1,7 +1,7 @@
 from functools import reduce
 
 CheckEven = lambda No: No%2==0
-Increment = lambda No : No+1
+Increment = lambda No : No+1  
 Add = lambda A,B: A+B
 
 
