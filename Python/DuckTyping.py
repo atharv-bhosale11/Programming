@@ -2,7 +2,7 @@
 #it's behaviour but not by it's class.
 
 class InkjetPrinter:
-    def printdocument(self,document):
+    def printdocument(self,document): 
         print("InkJet Printer printing: ",document)     
 
 class LaserPrinter:
