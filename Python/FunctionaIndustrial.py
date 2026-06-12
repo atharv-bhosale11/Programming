@@ -1,7 +1,7 @@
 # Procedural approach
 
 def checkeven(No):
-    if(No%2==0):
+    if(No%2==0): 
         return True
     else:
         return False
