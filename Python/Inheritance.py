@@ -2,7 +2,7 @@ class Parent:
     def __init__(self):
         print("Inside Parent Constructor")
         self.No1=10
-        self.No2=20
+        self.No2=20 
 
     def fun(self):
         print("Inside Fun Method of Parent")
