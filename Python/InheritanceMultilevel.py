@@ -1,7 +1,7 @@
 class Parent:
     pass
 
-class child(Parent):
+class child(Parent): 
     pass
 
 class childX(child):
