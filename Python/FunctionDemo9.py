@@ -4,7 +4,7 @@ def fun():
     print("Inside Fun")
 
 def gun():
-    print("Inside Gun")
+    print("Inside Gun") 
 
 def main():
     fun()
