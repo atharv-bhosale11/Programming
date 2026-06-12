@@ -3,7 +3,7 @@
 def checkeven(No):
     if(No%2==0):
         return True
-    else:
+    else: 
         return False
 
 def main():         #(user interaction should be with main)
