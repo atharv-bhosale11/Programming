@@ -6,7 +6,7 @@ def EmployeeInfo(Name="Rahu",Age=26,Salary=2000.50,City="Pune"):
     print("City: ",City)
 
 def main():
-    EmployeeInfo()  
+    EmployeeInfo()   
 
 if __name__ == "__main__":
     main()
