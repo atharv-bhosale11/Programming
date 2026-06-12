@@ -3,7 +3,6 @@
 def Marvellous1():
     print("Inside Marvellous1")
     
-    
 def main():
     Marvellous1()
 
