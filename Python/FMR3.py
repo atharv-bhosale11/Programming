@@ -1,7 +1,7 @@
 from functools import reduce
 def CheckEven(No):
     return (No%2==0)
-
+ 
 def Increment(No):
     return No+1
 
