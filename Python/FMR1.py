@@ -8,10 +8,5 @@ def main():
     FData = list(filter(CheckEven,Data))
     print("Data After Filter is:  ",FData)
 
-
-
-
-
-
 if __name__ == "__main__":
     main()
