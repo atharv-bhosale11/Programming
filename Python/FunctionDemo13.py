@@ -1,5 +1,3 @@
-
-
 def Phoenix():
     print("Inside Phoenix")
 
