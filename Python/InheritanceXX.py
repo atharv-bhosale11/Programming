@@ -1,8 +1,8 @@
 class Parent:
     def __init__(self):
-        print("Inside Parent Constructor")
+        print("Inside Parent Constructor") 
 
-    def fun(self):
+    def fun(self): 
         print("Inside Fun Method of Parent")
     
 class Child(Parent):
