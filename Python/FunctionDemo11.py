@@ -1,12 +1,8 @@
-
-
 def Phoenix():
     print("Inside Phoenix")
 
     def zara():
-        print("Inside Zara")
-
-
+        print("Inside Zara") 
 
 def main():
     Phoenix()
