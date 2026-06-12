@@ -4,7 +4,7 @@
 def Marvellous1(Value1,Value2):  
     print("Inside Marvellous1: ",Value1,Value2)
     return 11,21,51
-    
+     
 def main():
     Result1 = None
     Result2 = None
