@@ -1,5 +1,5 @@
 from functools import reduce
-
+ 
 
 def main():
     Data = [11,10,15,20,22,27,30]
