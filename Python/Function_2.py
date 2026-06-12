@@ -1,7 +1,7 @@
 print("Enter no: ")
 No1 = int(input())
 
-print("Enter No: ")
+print("Enter No: ") 
 No2 = int(input())
 
 Ans = No1*No2
