@@ -3,7 +3,7 @@
 def fun():
     print("Inside Fun")
 
-def gun():
+def gun(): 
     print("Inside Gun")
     fun()
 
