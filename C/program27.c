@@ -7,7 +7,7 @@ void Display(int iNo)
     // Updater
     if(iNo < 0)
     {
-        iNo = -iNo;
+        iNo = -iNo; 
     }
 
     for (iCnt=1; iCnt<=iNo ; iCnt++)
