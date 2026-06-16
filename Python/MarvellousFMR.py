@@ -12,13 +12,13 @@ def filterX(Task, Elements):
 def mapX(Task,Elements):
     Result = list()
 
-    for no in Elements:
+    for no in Elements: 
         Ret = Task(no)
         Result.append(Ret)
 
     return Result
 
-def reduceX(Task,Elements):
+def reduceX(Task,Elements): 
     Sum = 0
 
     for no in Elements:
