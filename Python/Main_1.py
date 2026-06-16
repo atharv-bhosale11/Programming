@@ -10,7 +10,7 @@ def main():
 
     No1 = int(input("Enter First Number: "))
     No2 = int(input("Enter Second Number: "))
-
+ 
     Result = Multiplication(No1,No2)
     print("Multiplication is: ",Result)
 main()
