@@ -3,24 +3,36 @@
 
 import java.util.*;
 
-class program63
-{   
-    public static void Display(int iNo)
-    {   
+class Pattern
+{
+    void Display(int iNo)
+    {
         int iCnt = 0;
 
-
-    }
-    
-    public static void main(String A[])
-    {
-        Scanner sobj = new Scanner(System.in);
-        int iValue = 0;
-
-        System.out.println("Enter the Number of Elements: ");
-        iValue = sobj.nextInt();
-
-        Display(iValue);
+        for(iCnt = 1; iCnt <= iNo; iCnt++)
+        {
+            if(((iCnt - 1) / 3) % 2 == 0)
+            {
+                System.out.print("*\t");
+            }
+            else
+            {
+                System.out.print("#\t");
+            }
+        }
     }
 }
 
+class program63
+{
+    public static void main(String A[])
+    {
+        Scanner sobj = new Scanner(System.in);
+
+        System.out.println("Enter number : ");
+        int iValue = sobj.nextInt();
+
+        Pattern pobj = new Pattern();
+        pobj.Display(iValue);
+    }
+}
