@@ -5,8 +5,8 @@ def Multiplication(Value1, Value2):
 
 def main():
     No1 = 0
-    No2 = 0
-    Result =0
+    No2 = 0 
+    Result =0 
 
     No1 = int(input("Enter First Number: "))
     No2 = int(input("Enter Second Number: "))
