@@ -8,7 +8,7 @@ class Demo:
         return self.No + other.No
     
     def __sub__(self,other):
-        return self.No - other.No
+        return self.No - other.No 
     
     def __mul__(self,other):
         return self.No * other.No
