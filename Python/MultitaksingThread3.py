@@ -1,0 +1,19 @@
+import threading
+
+def display():
+    print("Inside Display function",threading.get_ident())
+    
+    for i in range(100):
+        print("Inside Display")
+
+
+def main():
+    print("Inside main",threading.get_ident())
+    t = threading.Thread(target=display)
+    t.start()
+    print("End of Main")
+
+if __name__ == "__main__":
+    main()
+
+#solution to the next file
