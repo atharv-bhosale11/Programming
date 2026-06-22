@@ -8,7 +8,7 @@ class program50
 
         for(iCnt = 1; iCnt <= iNo; iCnt++)
         {
-            System.out.print("*"+iCnt+"*\t");
+            System.out.print("*"+iCnt+"*\t"); 
         }
         System.out.println();
     }
