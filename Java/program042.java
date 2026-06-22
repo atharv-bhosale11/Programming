@@ -37,8 +37,7 @@ class program42
 
         update(Brr);
 
-        System.out.println("Array Elements After function call: 
-        ");
+        System.out.println("Array Elements After function call: ");
 
         for(iCnt = 0; iCnt < Brr.length ; iCnt++)
         {
