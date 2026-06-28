@@ -2,7 +2,6 @@
 #include<stdlib.h>
 #include<stdbool.h>
 
-
 bool LinerSearch(int Arr[], int iSize, int iNo)
 {
     int iCnt = 0;
