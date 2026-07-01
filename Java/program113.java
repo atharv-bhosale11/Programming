@@ -1,0 +1,26 @@
+import java.util.*;
+
+class StringX
+{
+    public void Display(String str)
+    {
+        System.out.println("Received String is: "+str);
+    }
+}
+
+class program113
+{
+    public static void main(String A[])
+    {
+        Scanner sobj = new Scanner(System.in);
+        StringX strobj = new StringX();
+
+        String str = null;
+
+        System.out.println("Enter String: ");
+        str = sobj.nextLine();
+
+        strobj.Display(str);
+
+    }
+}
