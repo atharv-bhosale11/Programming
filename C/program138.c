@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void ReverseDisplay(char *str)
-{
+{  
     char *start = NULL;
     
     start = str;
