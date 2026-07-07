@@ -2,7 +2,7 @@
 
 typedef unsigned int UINT;
 
-int main()
+int main() 
 {
     UINT iMask = 0X80000000;
     int iCnt = 0;
