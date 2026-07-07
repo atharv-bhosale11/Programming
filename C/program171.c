@@ -8,7 +8,7 @@ int main()
     int iCnt = 0;
 
     for(iCnt = 1; iCnt <= 33; iCnt++)       // Overflow       
-    {
+    { 
         printf("%d.\t%X\n",iCnt,iMask);       
         iMask = iMask>>1;
     }
