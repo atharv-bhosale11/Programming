@@ -1,7 +1,7 @@
 //Type 2
 
 import java.util.*;
-
+ 
 class program06
 {
     void CheckDivisible(int iNo)
