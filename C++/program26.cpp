@@ -4,7 +4,7 @@ using namespace std;
 float Addition(float No1, float No2)
 {
     float Ans;
-    Ans = No1 + No2;
+    Ans = No1 + No2;            
     return Ans;
 }
 
