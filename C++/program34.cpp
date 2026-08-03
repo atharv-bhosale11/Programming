@@ -7,7 +7,7 @@ T Maximum(T No1, T No2)
     T Ans;
 
     if(No1 > No2)
-    {
+    {                              
         Ans = No1;
     }
     else
