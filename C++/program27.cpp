@@ -3,7 +3,7 @@ using namespace std;
 
 double Addition(double No1, double No2)
 {
-    double Ans;
+    double Ans;      
     Ans = No1 + No2;
     return Ans;
 }
