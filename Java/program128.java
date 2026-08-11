@@ -6,6 +6,6 @@ class program128
 
         System.out.println(ch1);
         System.out.println(ch1+32);     // 97
-
+        
     }
 }
