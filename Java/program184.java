@@ -4,7 +4,7 @@ class program184
 {
     public static void main(String A[])
     {
-        Scanner sobj = new Scanner(System.in);
+        Scanner sobj = new Scanner(System.in); 
 
         System.out.println("Enter String: ");
         String str = sobj.nextLine();
