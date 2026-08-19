@@ -7,7 +7,7 @@ import java.util.*;
 
 class program181
 {
-    public static void main(String A[])
+    public static void main(String A[]) 
     {
         Scanner sobj = new Scanner(System.in);
 
