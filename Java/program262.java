@@ -2,7 +2,7 @@ import java.util.*;
 
 class program262
 {
-    public static void main(String A[])
+    public static void main(String A[]) 
     {
         ArrayList <Integer> aobj = new ArrayList <Integer> ();
 
