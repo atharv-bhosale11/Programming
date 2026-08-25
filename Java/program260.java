@@ -4,7 +4,7 @@
     {
         public static void main(String A[])
         {
-            ArrayList <Integer> aobj = new ArrayList <Integer> ();
+            ArrayList <Integer> aobj = new ArrayList <Integer> (); 
 
             aobj.add(11);
             aobj.add(21);
