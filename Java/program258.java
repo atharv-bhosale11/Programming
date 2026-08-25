@@ -3,7 +3,7 @@ import java.io.*;
 class program258
 {
     public static void main(String A[]) throws Exception
-    {
+    {  
         int iNo = 0;
         int iTemp = 0;
         int iSquare = 0;
