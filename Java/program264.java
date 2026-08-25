@@ -1,0 +1,20 @@
+import java.util.*;
+
+class program264
+{
+    public static void main(String A[])
+    {
+        ArrayList <Integer> aobj = new ArrayList <Integer> ();
+
+        aobj.add(11);
+        aobj.add(21);
+        aobj.add(51);
+        aobj.add(101);
+        aobj.add(51);
+
+        for(int no : aobj)
+        {
+            System.out.println(no);
+        }
+    }
+}
