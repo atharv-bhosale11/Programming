@@ -5,7 +5,7 @@ class program265
     public static void main(String A[])
     {
         ArrayList <Integer> aobj = new ArrayList <Integer> ();  
-
+ 
         aobj.add(11);
         aobj.add(21);
         aobj.add(51);
