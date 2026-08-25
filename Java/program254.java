@@ -5,7 +5,7 @@ class program254
         int iNo = 141376;
 
         System.out.println(iNo % 10);
-        System.out.println(iNo % 100);
+        System.out.println(iNo % 100); 
         System.out.println(iNo % 1000);
     }
 }
