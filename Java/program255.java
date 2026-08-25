@@ -2,7 +2,7 @@ class program255
 {
     public static void main(String A[])
     {
-        int iNo = 376;
+        int iNo = 376; 
         int iCount = 3;
         int iSquare = 141376;
 
