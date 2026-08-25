@@ -6,7 +6,7 @@ class program253
     {
         int iNo = 0;
         int iDigit = 0;
-        int iTemp = 0;
+        int iTemp = 0; 
         int iSquare = 0;
         int iCount = 0;
 
