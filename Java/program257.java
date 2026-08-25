@@ -5,7 +5,7 @@ class program257
     public static void main(String A[]) throws Exception
     {
         int iNo = 0;
-        int iTemp = 0;
+        int iTemp = 0; 
         int iSquare = 0;
         int iCount = 0;
         int iDen = 0;
