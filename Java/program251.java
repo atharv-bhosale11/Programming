@@ -10,7 +10,7 @@ class program251
         int iRev = 0;
 
         BufferedReader bobj = new BufferedReader(new InputStreamReader(System.in));
-    
+
         System.out.println("Enter number : ");
         iNo = Integer.parseInt(bobj.readLine());
 
