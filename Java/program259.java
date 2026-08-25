@@ -9,7 +9,7 @@ class program259
         int iSquare = 0;
         int iCount = 0;
         int iDen = 0;
-
+ 
         BufferedReader bobj = new BufferedReader(new InputStreamReader(System.in));
     
         System.out.println("Enter number : ");
