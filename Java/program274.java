@@ -9,7 +9,7 @@ interface GetterSetter
 class ArrayX implements GetterSetter
 {
     protected  int Arr[];
-    protected  int iSize;
+    protected  int iSize; 
 
     public ArrayX(int iSize)
     {
