@@ -3,10 +3,10 @@ import java.util.*;
 class program266
 {
     public static void main(String A[])
-    {
+    { 
         ArrayList <String> aobj = new ArrayList <String> ();
 
-        aobj.add("Pune");
+        aobj.add("Pune"); 
         aobj.add("Mumbai");
         aobj.add("Satara");
         aobj.add("Nashik"); 
