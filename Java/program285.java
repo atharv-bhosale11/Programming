@@ -6,7 +6,7 @@ class program285
     {
         int Arr[] = {10, 13, 34, 21, 15, 34, 7, 24};
 
-        for(int no : Arr)
+        for(int no : Arr) 
         {
             System.out.print(no+"\t");
         }    
