@@ -6,7 +6,7 @@ interface GetterSetter
     void Display();
 }
 
-class ArrayX implements GetterSetter
+class ArrayX implements GetterSetter  
 {
     protected  int Arr[];
     protected  int iSize;
