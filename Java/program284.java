@@ -8,7 +8,7 @@ class program284
 
         for(int no : Arr)
         {
-            System.out.print(no+"\t");
+            System.out.print(no+"\t"); 
         }    
         System.out.println();
         
