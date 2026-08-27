@@ -9,7 +9,7 @@ class program267
         aobj.add("Pune");
         aobj.add("Mumbai");
         aobj.add("Satara");
-        aobj.add("Nashik");
+        aobj.add("Nashik"); 
         aobj.add("Mumbai");
 
         if(aobj.contains("Satara"))
