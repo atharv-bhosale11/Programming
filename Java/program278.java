@@ -4,7 +4,7 @@ interface GetterSetter
 {
     void Accept();
     void Display();
-}
+} 
 
 class ArrayX implements GetterSetter
 {
@@ -13,7 +13,7 @@ class ArrayX implements GetterSetter
 
     public ArrayX(int iSize)
     {
-        this.iSize = iSize;
+        this.iSize = iSize; 
         Arr = new int[iSize];
     }
 
