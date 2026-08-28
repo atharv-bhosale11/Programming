@@ -4,7 +4,7 @@ interface GetterSetter
 {
     void Accept();
     void Display();
-}
+} 
 
 class ArrayX implements GetterSetter
 {
