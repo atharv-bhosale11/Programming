@@ -4,7 +4,7 @@ class node
     public node next; 
 
     public node(int no)
-    {
+    {  
         this.data = no;
         this.next = null;
     }
