@@ -8,7 +8,7 @@ class node
         this.data = no;
         this.next = null;
     }
-}
+} 
 
 class SinglyLL
 {
