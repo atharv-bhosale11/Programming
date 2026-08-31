@@ -2,7 +2,7 @@ class node
 {
     public int data;
     public node next; 
-    
+       
     public node(int no) 
     {
         this.data = no;
