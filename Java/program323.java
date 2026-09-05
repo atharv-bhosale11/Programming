@@ -1,0 +1,7 @@
+class program323
+{
+    public static void main(String A[])
+    {
+        System.out.println(A[0]);
+    }
+}
