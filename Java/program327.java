@@ -1,0 +1,19 @@
+// java program949.java 10 11
+class program327
+{
+    public static void main(String A[])
+    {   
+        int Ans = 0;
+
+        if(A.length != 2)
+        {
+            System.out.println("Inavlid Number of Arguments");
+
+            return;
+        }
+
+        Ans = Integer.parseInt(A[0]) + Integer.parseInt(A[1]);        
+
+        System.out.println("Addition is     :"+Ans);
+    }
+}
