@@ -2,7 +2,7 @@ import java.util.*;
 
 class program334
 {
-    public static void main(String A[])
+    public static void main(String A[]) 
     {
         HashMap<Integer,Integer> inventory = new HashMap<Integer,Integer>();
 
