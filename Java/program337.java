@@ -1,0 +1,29 @@
+import java.util.*;
+
+class program337
+{
+    public static void main(String A[])
+    {
+        String transaction[] = {"TX101","TX102","TX103","TX101","TX104","TX102"};
+
+        HashSet <String> unique    = new HashSet<String>();
+        HashSet <String> duplicate = new HashSet<String>();
+
+        for(String str : transaction)
+        {
+            if(unique.add(str))
+            {
+            }
+            else
+            {
+                duplicate.add(str);
+            }
+        }
+
+        System.out.println("Duplicate Transactions are: ");
+        for(String str : duplicate)
+        {
+            System.out.println(str);
+        }
+    }
+}
