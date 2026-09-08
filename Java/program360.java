@@ -4,7 +4,7 @@ class program360
 {
     public static void main(String A[])
     {
-        Scanner sobj = new Scanner(System.in);
+        Scanner sobj = new Scanner(System.in); 
         String str = null;
 
         System.out.println("Enter string : ");
