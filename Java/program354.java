@@ -1,0 +1,17 @@
+class program354
+{
+    public static void main(String A[])
+    {
+        String header = "    India  is  my  country    ";
+
+        System.out.println(header);
+
+        header = header.trim();
+
+        System.out.println(header);
+
+        header = header.replaceAll("  ", " ");
+
+        System.out.println(header);
+    }
+}
