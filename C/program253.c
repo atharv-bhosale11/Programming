@@ -5,7 +5,7 @@ int main()
 {
     int fd = 0;             // File Descriptior
 
-    fd = creat("Marvellous.txt",0777);
+    fd = creat("ABC.txt",0777);
 
     if(fd == -1)
     {
