@@ -3,7 +3,7 @@
 
 int main()
 {
-    int fd = 0;             // File Descriptior
+    int fd = 0;             // File Descriptior 
 
     fd = creat("ABC.txt",0777);
 
