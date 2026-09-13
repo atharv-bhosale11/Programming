@@ -6,7 +6,7 @@ int main()
     int fd = 0;             // File Descriptior
 
     fd = creat("ABC.txt",0777);
-
+ 
     if(fd == -1)
     {
         printf("Unable to Create File\n");
