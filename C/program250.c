@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 
     if(argc != 3)
     {
-        printf("Invalid number of arguments");
+        printf("Invalid number of arguments"); 
         return -1;
     }
 
