@@ -2,7 +2,7 @@ class program356
 {
     public static void main(String A[])
     {
-        String header = "    india   is   my   country    ";
+        String header = "    India   is   my   country    ";
 
         System.out.println(header.length());
 
