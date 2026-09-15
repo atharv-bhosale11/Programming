@@ -7,7 +7,7 @@ class program342
         ArrayList <String> aobj = new ArrayList<String>();
 
         aobj.add("Rahul");
-        aobj.add("Amit");
+        aobj.add("Amit"); 
         aobj.add("Pooja");
         aobj.add("Neha");
         aobj.add("Kiran");
