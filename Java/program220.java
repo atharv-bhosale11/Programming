@@ -11,7 +11,7 @@ class Matrix
         Arr = new int[iRow][iCol];
     }
 
-    protected void finalize()
+    protected void finalize() 
     {
         System.out.println("Inside finalize method");
         
