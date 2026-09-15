@@ -5,7 +5,7 @@ class program321
     public static void main(String A[])
     {
         int Arr[] = {101,102,103,101,104,102,101,105,105};
-        
+         
         HashMap <Integer,Integer> frequency = new HashMap<Integer,Integer>();
 
         for(int id : Arr)
