@@ -7,7 +7,7 @@ class program355
         System.out.println(header.length());
 
         header = header.trim();
-
+ 
         System.out.println(header.length());
 
         header = header.replaceAll("  ", " ");
