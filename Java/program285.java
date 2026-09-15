@@ -9,7 +9,7 @@ class program285
         for(int no : Arr) 
         {
             System.out.print(no+"\t");
-        }    
+        }     
         System.out.println();
         
         Arrays.sort(Arr, 2, 7);
