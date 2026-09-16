@@ -6,7 +6,7 @@ class program145
 
         System.out.println(header.length());
 
-        header = header.trim();
+        header = header.trim(); 
 
         System.out.println(header.length());
 
