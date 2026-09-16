@@ -5,7 +5,7 @@ class ArrayX
 {
     public:
         int *Arr;
-        int Size;
+        int Size; 
 
         ArrayX(int No)
         {
