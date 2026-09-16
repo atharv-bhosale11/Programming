@@ -8,7 +8,7 @@ int main()
     scanf("%d",&iNo);
 
     while (iNo != 0)
-    {
+    { 
         iDigit = iNo % 2;
         if(iDigit == 1)
         {
