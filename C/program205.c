@@ -4,7 +4,7 @@ void Display(int iNo)
 {
     auto int i = 0;
 
-    i = 1;
+    i = 1; 
     while( i <= iNo )
     {
         printf("Jay Ganesh...\n");
