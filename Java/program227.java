@@ -4,7 +4,7 @@ class Matrix
 {
     protected int Arr[][];
     protected int iRow;
-    protected int iCol;
+    protected int iCol; 
 
     public Matrix(int iRow, int iCol)
     {
