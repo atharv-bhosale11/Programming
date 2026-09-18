@@ -4,7 +4,7 @@ class program337
 {
     public static void main(String A[])
     {
-        String transaction[] = {"TX101","TX102","TX103","TX101","TX104","TX102"};
+        String transaction[] = {"TX101","TX102","TX103","TX101","TX104","TX102"}; 
 
         HashSet <String> unique    = new HashSet<String>();
         HashSet <String> duplicate = new HashSet<String>();
