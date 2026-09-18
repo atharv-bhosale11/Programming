@@ -2,7 +2,7 @@ import java.util.*;
 
 class program409
 {
-    public static void main(String A[])
+    public static void main(String A[]) 
     {
         TreeMap <Integer,String> hobj = new TreeMap<Integer,String>();
 
