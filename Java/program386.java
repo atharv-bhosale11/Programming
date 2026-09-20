@@ -6,7 +6,7 @@ class StudyLog
 {
     public LocalDate Date;
     public String Subject;
-    public double Duration;
+    public double Duration; 
     public String Description;
 
     public StudyLog(LocalDate a, String b, double c, String d)
