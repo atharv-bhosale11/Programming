@@ -3,7 +3,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 class StudyLog
-{
+{ 
     public String Subject;
     public double Duration;
 
