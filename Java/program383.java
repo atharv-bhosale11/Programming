@@ -2,7 +2,7 @@ import java.util.*;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
-class StudyLog
+class StudyLog 
 {
     public String Subject;
     public double Duration;
