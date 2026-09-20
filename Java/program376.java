@@ -8,7 +8,7 @@ class program376
         int iRet = 0;
 
         Scanner sobj = new Scanner(System.in);
-        String FolderName = null;
+        String FolderName = null; 
         String PackFileName = null;
         String header = "";
 
