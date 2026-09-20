@@ -7,7 +7,7 @@ class program379
     {     
         int iRet = 0;
         int Size = 0;
-        int i = 0, j = 0;
+        int i = 0, j = 0; 
 
         Scanner sobj = new Scanner(System.in);
         String FolderName = null;
