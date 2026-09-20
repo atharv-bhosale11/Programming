@@ -1,7 +1,3 @@
-//////////////////////////////////
-// Final Packing Code
-//////////////////////////////////
-
 import java.io.*;
 import java.util.*;
 
@@ -10,7 +6,7 @@ class program380
     public static void main(String A[]) throws Exception
     {     
         int iRet = 0;
-        int Size = 0;
+        int Size = 0; 
         int i = 0, j = 0;
 
         Scanner sobj = new Scanner(System.in);
