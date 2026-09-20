@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 
 class StudyLog
 {
-    private LocalDate Date;
+    private LocalDate Date; 
     private String Subject;
     private double Duration;
     private String Description;
