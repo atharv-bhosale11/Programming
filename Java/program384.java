@@ -1,6 +1,6 @@
 import java.util.*;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
+import java.time.LocalDateTime; 
 
 class StudyLog
 {
@@ -9,7 +9,7 @@ class StudyLog
     public double Duration;
     public String Description;
 
-    public StudyLog(LocalDate a, String b, double c, String d)
+    public StudyLog(LocalDate a, String b, double c, String d) 
     {
         this.Date = a;
         this.Subject = b;
