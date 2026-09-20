@@ -12,7 +12,7 @@ class StudyLog
     }
 }
 
-class program381
+class program381 
 {
     public static void main(String A[])
     {
