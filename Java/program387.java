@@ -1,7 +1,7 @@
 import java.util.*;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-
+ 
 class StudyLog
 {
     private LocalDate Date;
