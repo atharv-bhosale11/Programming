@@ -4,8 +4,7 @@ class program436
 {
     public static void main(String A[])
     {
-        ArrayList<String> list =
-            new ArrayList<String>();
+        ArrayList<String> list = new ArrayList<String>();
 
         list.add("Java");
         list.add("Python");
