@@ -3,7 +3,7 @@ import java.util.*;
 class program434
 {
     public static void main(String A[])
-    {
+    { 
       
         ArrayList<Integer> src = new ArrayList<Integer>();
 
