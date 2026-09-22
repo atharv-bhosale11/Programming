@@ -4,7 +4,7 @@ class program432
 {
     public static void main(String A[])
     {
-        ArrayList<String> list = new ArrayList<String>();
+        ArrayList<String> list = new ArrayList<String>(); 
 
         list.add("A");
         list.add("B");
