@@ -6,7 +6,7 @@ class program432
     {
         ArrayList<String> list = new ArrayList<String>(); 
 
-        list.add("A");
+        list.add("A"); 
         list.add("B");
         list.add("C");
         list.add("D");
