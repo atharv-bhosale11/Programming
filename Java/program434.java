@@ -12,7 +12,7 @@ class program434
         src.add(30);
 
         ArrayList<Integer> dest =
-            new ArrayList<Integer>(src);
+            new ArrayList<Integer>(src); 
 
         System.out.println(dest);
       
