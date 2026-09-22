@@ -1,7 +1,7 @@
 import java.util.*;
 
 class program432
-{
+{ 
     public static void main(String A[])
     {
         ArrayList<String> list = new ArrayList<String>(); 
