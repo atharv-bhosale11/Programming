@@ -4,11 +4,9 @@ class program438
 {
     public static void main(String A[])
     {
-        ArrayList<Integer> A1 =
-            new ArrayList<Integer>();
+        ArrayList<Integer> A1 = new ArrayList<Integer>();
 
-        ArrayList<Integer> A2 =
-            new ArrayList<Integer>();
+        ArrayList<Integer> A2 = new ArrayList<Integer>();
 
         A1.add(10);
         A1.add(20);
