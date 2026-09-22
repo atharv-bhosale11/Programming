@@ -5,7 +5,7 @@ class program434
     public static void main(String A[])
     { 
       
-        ArrayList<Integer> src = new ArrayList<Integer>();
+        ArrayList<Integer> src = new ArrayList<Integer>(); 
 
         src.add(10);
         src.add(20);
