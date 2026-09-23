@@ -11,8 +11,7 @@ class program457
         list.add(10);
         list.add(30);
 
-        LinkedHashSet<Integer> hobj =
-            new LinkedHashSet<Integer>(list);
+        LinkedHashSet<Integer> hobj = new LinkedHashSet<Integer>(list);
 
         System.out.println(hobj);
     }
