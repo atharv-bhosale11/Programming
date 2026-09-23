@@ -12,8 +12,7 @@ class program456
 
         ArrayList<Map.Entry<String,Integer>> list = new ArrayList<>(hobj.entrySet());
 
-        Collections.sort(list,
-            (a,b) -> a.getValue()-b.getValue());
+        Collections.sort(list,(a,b) -> a.getValue()-b.getValue());
 
         System.out.println(list);
     }
