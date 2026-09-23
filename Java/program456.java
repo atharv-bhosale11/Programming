@@ -10,8 +10,7 @@ class program456
         hobj.put("B",70);
         hobj.put("C",80); 
 
-        ArrayList<Map.Entry<String,Integer>> list =
-            new ArrayList<>(hobj.entrySet());
+        ArrayList<Map.Entry<String,Integer>> list = new ArrayList<>(hobj.entrySet());
 
         Collections.sort(list,
             (a,b) -> a.getValue()-b.getValue());
