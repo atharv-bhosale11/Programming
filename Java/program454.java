@@ -6,8 +6,7 @@ class program454
     {
         String str = "java python java c java";
 
-        HashMap<String,Integer> hobj =
-            new HashMap<String,Integer>();
+        HashMap<String,Integer> hobj = new HashMap<String,Integer>();
 
         String Arr[] = str.split(" ");
 
