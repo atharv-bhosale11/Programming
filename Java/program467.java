@@ -6,8 +6,7 @@ class program467
     {
         ArrayList<Integer> list1 = new ArrayList<Integer>(Arrays.asList(10,20,30,40,50));
 
-        ArrayList<Integer> list2 =
-            new ArrayList<Integer>(Arrays.asList(30,40,50,60,70));
+        ArrayList<Integer> list2 = new ArrayList<Integer>(Arrays.asList(30,40,50,60,70));
 
         ArrayList<Integer> common =
             new ArrayList<Integer>(list1);
