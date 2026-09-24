@@ -31,9 +31,7 @@ class program465
         employees.add(new Employee(103,"Amit",50000));
         employees.add(new Employee(104,"Rohit",60000));
 
-        Collections.sort(employees,
-            Comparator.comparingDouble((Employee e) -> e.salary)
-                      .thenComparing(e -> e.name));
+        Collections.sort(employees, Comparator.comparingDouble((Employee e) -> e.salary).thenComparing(e -> e.name));
 
         for(Employee e : employees)
         {
