@@ -6,11 +6,11 @@ class program468
     {
         ArrayList<String> names = new ArrayList<String>();
 
-        names.add("Atharv");
-        names.add("Rahul");
-        names.add("Atharv");
+        names.add("Sujit");
+        names.add("Mohan");
+        names.add("Sujit"); 
         names.add("Amit");
-        names.add("Rahul");
+        names.add("Mohan");
 
         LinkedHashSet<String> unique =
             new LinkedHashSet<String>(names);
