@@ -4,10 +4,9 @@ class program463
 {
     public static void main(String A[])
     {
-        HashMap<String,String> contacts =
-            new HashMap<String,String>();
+        HashMap<String,String> contacts = new HashMap<String,String>();
 
-        contacts.put("Atharv","9876543210");
+        contacts.put("Sujit","9876543210");
         contacts.put("Rahul","9123456780");
         contacts.put("Amit","9988776655");
         contacts.put("Rohit","9090909090");
