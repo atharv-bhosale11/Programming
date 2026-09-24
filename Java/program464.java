@@ -8,8 +8,7 @@ class program464
 
         String words[] = str.split(" ");
 
-        HashMap<String,Integer> hmap =
-            new HashMap<String,Integer>();
+        HashMap<String,Integer> hmap = new HashMap<String,Integer>();
 
         for(String word : words)
         {
