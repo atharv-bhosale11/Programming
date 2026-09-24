@@ -14,4 +14,4 @@ class program467
 
         System.out.println("Common Elements : " + common);
     }
-}
+} 
