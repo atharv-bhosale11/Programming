@@ -4,8 +4,7 @@ class program461
 {
     public static void main(String A[])
     {
-        HashMap<String,ArrayList<String>> hmap =
-            new HashMap<String,ArrayList<String>>();
+        HashMap<String,ArrayList<String>> hmap = new HashMap<String,ArrayList<String>>();
 
         hmap.put("A",new ArrayList<String>());
         hmap.put("B",new ArrayList<String>());
