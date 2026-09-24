@@ -12,8 +12,7 @@ class program459
 
         System.out.println("Students : "+students);
 
-        System.out.println("Search Roll 102 : "
-                            + students.get(102));
+        System.out.println("Search Roll 102 : " + students.get(102));
 
         students.put(102,"Rohit");
 
