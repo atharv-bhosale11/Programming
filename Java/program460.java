@@ -5,7 +5,7 @@ class Employee
     int id;
     String name;
     double salary;
-
+ 
     Employee(int id,String name,double salary)
     {
         this.id = id;
@@ -35,11 +35,11 @@ class program460
         {
             if(e.salary > max.salary)
             {
-                max = e;
+                max = e; 
             }
         }
 
-        System.out.println("Highest Salary Employee");
+        System.out.println("Highest Salary Employee    : ");
         System.out.println(max);
     }
 }
