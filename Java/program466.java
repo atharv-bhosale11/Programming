@@ -4,8 +4,7 @@ class program466
 {
     public static void main(String A[])
     {
-        HashMap<String,Integer> inventory =
-            new HashMap<String,Integer>();
+        HashMap<String,Integer> inventory = new HashMap<String,Integer>();
 
         inventory.put("Laptop",10);
         inventory.put("Mouse",25);
