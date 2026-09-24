@@ -7,7 +7,7 @@ class program462
         ArrayList<Integer> marks = new ArrayList<Integer>();
 
         marks.add(78);
-        marks.add(92);
+        marks.add(92);  
         marks.add(85);
         marks.add(96);
         marks.add(88);
