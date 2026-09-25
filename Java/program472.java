@@ -9,8 +9,7 @@ class program472
             "A","B","A","C","A","B","C","B","A"
         };
 
-        HashMap<String,Integer> result =
-            new HashMap<String,Integer>();
+        HashMap<String,Integer> result = new HashMap<String,Integer>();
 
         for(String vote : votes)
         {
