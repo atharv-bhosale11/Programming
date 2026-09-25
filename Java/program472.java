@@ -6,8 +6,7 @@ class program472
     {
         String votes[] =
         {
-            "A","B","A","C","A",
-            "B","C","B","A"
+            "A","B","A","C","A","B","C","B","A"
         };
 
         HashMap<String,Integer> result =
