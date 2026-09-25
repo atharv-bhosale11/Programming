@@ -4,8 +4,7 @@ class program447
 {
     public static void main(String A[])
     {
-        TreeMap<Integer,String> tobj =
-            new TreeMap<Integer,String>();
+        TreeMap<Integer,String> tobj = new TreeMap<Integer,String>();
 
         tobj.put(1,"Amit");
         tobj.put(2,"Rahul");
