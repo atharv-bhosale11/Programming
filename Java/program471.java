@@ -5,7 +5,7 @@ class program471
     public static void main(String A[])
     {
         HashMap<String,Integer> expenses =
-            new HashMap<String,Integer>();
+ new HashMap<String,Integer>();
 
         expenses.put("Food",500);
         expenses.put("Travel",300);
