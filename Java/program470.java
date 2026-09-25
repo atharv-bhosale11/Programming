@@ -5,6 +5,7 @@ class program470
     public static void main(String A[])
     {
         TreeMap<String,Integer> cities =
+
             new TreeMap<String,Integer>();
 
         cities.put("Mumbai",200);
