@@ -4,8 +4,7 @@ class program469
 {
     public static void main(String A[])
     {
-        HashMap<String,Integer> students =
-            new HashMap<String,Integer>();
+        HashMap<String,Integer> students = new HashMap<String,Integer>();
 
         students.put("Atharv",85);
         students.put("Rahul",92);
