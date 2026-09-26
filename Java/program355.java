@@ -10,7 +10,7 @@ class program355
  
         System.out.println(header.length());
 
-        header = header.replaceAll("  ", " ");
+        header = header.replaceAll("  ", " "); 
 
         System.out.println(header.length());
     }
