@@ -9,7 +9,7 @@ class program356
         header = header.trim();
 
         System.out.println(header.length());
-
+ 
         header = header.replaceAll("  ", " ");
 
         System.out.println(header.length());
