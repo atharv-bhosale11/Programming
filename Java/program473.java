@@ -5,7 +5,7 @@ class program473
     public static void main(String A[])
     {
         HashMap<String,Boolean> attendance =
-            new HashMap<String,Boolean>();
+ new HashMap<String,Boolean>();
 
         attendance.put("Sujit",true);
         attendance.put("Rajan",false);
