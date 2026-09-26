@@ -28,7 +28,6 @@ class program476
         library.add(new Book(103,"C Programming"));
 
         System.out.println("Available Books :");
-        
         for(Book b : library)
         {
             System.out.println(b);
