@@ -9,7 +9,7 @@ class Book
     {
         this.id = id;
         this.name = name;
-    }
+    } 
 
     public String toString()
     {
@@ -28,6 +28,7 @@ class program476
         library.add(new Book(103,"C Programming"));
 
         System.out.println("Available Books :");
+        
         for(Book b : library)
         {
             System.out.println(b);
@@ -54,6 +55,7 @@ class program476
         library.removeIf(book -> book.id == 103);
 
         System.out.println("After Removal :");
+        
         for(Book b : library)
         {
             System.out.println(b);
