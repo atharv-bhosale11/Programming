@@ -4,17 +4,13 @@ class program480
 {
     public static void main(String A[])
     {
-        TreeMap<String,String> dictionary =
-            new TreeMap<String,String>();
+        TreeMap<String,String> dictionary = new TreeMap<String,String>();
 
-        dictionary.put("Array",
-                "Collection of similar elements");
+        dictionary.put("Array", "Collection of similar elements");
 
-        dictionary.put("Class",
-                "Blueprint of an object");
+        dictionary.put("Class","Blueprint of an object");
 
-        dictionary.put("Object",
-                "Instance of a class");
+        dictionary.put("Object","Instance of a class");
 
         for(Map.Entry<String,String> entry :
                 dictionary.entrySet())
