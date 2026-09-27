@@ -13,10 +13,7 @@ class program479
 
         for(Map.Entry<Integer,Integer> entry : employees.entrySet())
         {
-            System.out.println("Emp ID : "
-                    + entry.getKey()
-                    + " Salary : "
-                    + entry.getValue());
+            System.out.println("Emp ID : " + entry.getKey() + " Salary : " + entry.getValue());
         }
     }
 }
