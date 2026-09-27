@@ -1,11 +1,10 @@
 import java.util.*;
 
-class program491
+class program481
 {
     public static void main(String A[])
     {
-        TreeMap<String,Integer> students =
-            new TreeMap<String,Integer>();
+        TreeMap<String,Integer> students =new TreeMap<String,Integer>();
 
         students.put("Atharv",85);
         students.put("Rahul",92);
