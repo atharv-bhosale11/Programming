@@ -4,8 +4,7 @@ class program479
 {
     public static void main(String A[])
     {
-        TreeMap<Integer,Integer> employees =
-            new TreeMap<Integer,Integer>();
+        TreeMap<Integer,Integer> employees = new TreeMap<Integer,Integer>();
 
         employees.put(104,70000);
         employees.put(101,50000);
