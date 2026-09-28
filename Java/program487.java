@@ -13,7 +13,7 @@ class program487
         {
             System.out.println("Bit is Set");
         }
-        else
+        else 
         {
             System.out.println("Bit is Not Set");
         }
