@@ -8,7 +8,7 @@ class program480
 
         dictionary.put("Array","Collection of similar elements");
 
-        dictionary.put("Class","Blueprint of an object");
+        dictionary.put("Class","Blueprint of an object");  
 
         dictionary.put("Object","Instance of a class");
 
