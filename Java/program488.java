@@ -10,7 +10,7 @@ class program488
 {
     public static void main(String A[])
     {
-        int iAge = 16;
+        int iAge = 16; 
 
         try
         {
