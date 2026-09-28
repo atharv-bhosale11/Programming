@@ -1,18 +1,22 @@
-import java.util.*;
-
-class program483
+class program489
 {
-    public static void main(String A[]) 
+    public static void main(String A[])
     {
-        int iNo = 25;
+        int Arr[] = {10,20,30};
 
-        if((iNo & 1) == 0)
-        { 
-            System.out.println("Even Number");
-        }
-        else
+        try
         {
-            System.out.println("Odd Number");
+            int iNo = 10 / 0;
+
+            System.out.println(Arr[5]); 
+        }
+        catch(ArithmeticException e)
+        {
+            System.out.println("Arithmetic Exception");
+        }
+        catch(ArrayIndexOutOfBoundsException e)
+        {
+            System.out.println("Array Index Exception");
         }
     }
 }
