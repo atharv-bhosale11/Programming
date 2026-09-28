@@ -5,7 +5,7 @@ class InvalidAgeException extends Exception
         super(msg);
     }
 }
-
+ 
 class program488
 {
     public static void main(String A[])
