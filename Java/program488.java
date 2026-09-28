@@ -4,7 +4,7 @@ class InvalidAgeException extends Exception
     {
         super(msg);
     }
-}
+} 
  
 class program488
 {
