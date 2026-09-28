@@ -6,7 +6,7 @@ class program486
     { 
         int iNo = 40; 
         int iPos = 1; 
-
+ 
         while((iNo & 1) == 0)
         {
             iNo = iNo >> 1;
