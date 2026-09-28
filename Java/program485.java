@@ -8,7 +8,7 @@ class program485
         int iCount = 0;
 
         while(iNo != 0)
-        {
+        { 
             if((iNo & 1) == 1)
             {
                 iCount++;
