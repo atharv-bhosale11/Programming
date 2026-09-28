@@ -8,7 +8,7 @@ class program482
 
         HashMap<Integer,Integer> hmap = new HashMap<Integer,Integer>();
 
-        for(int no : Arr)
+        for(int no : Arr) 
         {
             if(hmap.containsKey(no))
             {
