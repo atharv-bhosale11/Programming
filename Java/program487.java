@@ -7,7 +7,7 @@ class program487
         int iNo = 21;
         int k = 3; 
 
-        int iMask = 1 << (k - 1);
+        int iMask = 1 << (k - 1); 
 
         if((iNo & iMask) != 0)
         {
