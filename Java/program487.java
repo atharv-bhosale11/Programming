@@ -1,5 +1,5 @@
 import java.util.*;
-
+ 
 class program487
 { 
     public static void main(String A[])
