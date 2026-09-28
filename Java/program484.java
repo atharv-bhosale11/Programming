@@ -2,7 +2,7 @@ import java.util.*;
 
 class program484
 {
-    public static void main(String A[])
+    public static void main(String A[]) 
     {
         int iNo = 16;
                                                                      
