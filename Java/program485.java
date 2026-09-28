@@ -12,7 +12,7 @@ class program485
             if((iNo & 1) == 1)
             {
                 iCount++;
-            }
+            } 
 
             iNo = iNo >> 1;
         }
