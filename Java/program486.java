@@ -3,7 +3,7 @@ import java.util.*;
 class program486
 {
     public static void main(String A[])
-    {
+    { 
         int iNo = 40; 
         int iPos = 1; 
 
