@@ -12,7 +12,7 @@ class program487
         if((iNo & iMask) != 0)
         {
             System.out.println("Bit is Set");
-        }
+        } 
         else 
         {
             System.out.println("Bit is Not Set");
