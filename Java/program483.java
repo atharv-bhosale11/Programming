@@ -4,7 +4,7 @@ class program483
     {
         int Arr[] = {10,20,30};
 
-        try
+        try 
         {
             int iNo = 10 / 0;
 
