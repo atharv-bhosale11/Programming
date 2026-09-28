@@ -5,7 +5,7 @@ class program486
     public static void main(String A[])
     {
         int iNo = 40;
-        int iPos = 1;
+        int iPos = 1; 
 
         while((iNo & 1) == 0)
         {
