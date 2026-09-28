@@ -5,8 +5,8 @@ class program484
     public static void main(String A[])
     {
         int iNo = 16;
-
-        if((iNo > 0) && ((iNo & (iNo - 1)) == 0))
+                                                                     
+        if((iNo > 0) && ((iNo & (iNo - 1)) == 0))            
         {
             System.out.println("Power of 2");
         }
