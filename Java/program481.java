@@ -2,7 +2,7 @@ import java.util.*;
 
 class program481
 {
-    public static void main(String A[])
+    public static void main(String A[]) 
     {
         TreeMap<String,Integer> students = new TreeMap<String,Integer>();
 
