@@ -5,7 +5,7 @@ class StudyLog
     public String Subject;
     public double Duration;
 
-    public StudyLog(String a, double d)
+    public StudyLog(String a, double d) 
     {
         this.Subject = a;
         this.Duration = d;
