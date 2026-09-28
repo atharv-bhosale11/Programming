@@ -7,7 +7,7 @@ class program483
         int iNo = 25;
 
         if((iNo & 1) == 0)
-        {
+        { 
             System.out.println("Even Number");
         }
         else
