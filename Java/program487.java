@@ -5,7 +5,7 @@ class program487
     public static void main(String A[])
     {
         int iNo = 21;
-        int k = 3;
+        int k = 3; 
 
         int iMask = 1 << (k - 1);
 
