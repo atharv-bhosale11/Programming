@@ -4,7 +4,7 @@ interface Shape
 }
 
 class Circle implements Shape
-{
+{ 
     public void calculateArea()
     {
         double dRadius = 5;
