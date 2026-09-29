@@ -5,7 +5,7 @@ class program489
         try
         {
             int iNo = 10 / 2;
-
+ 
             System.out.println("Result : " + iNo);
         }
         catch(ArithmeticException e)
