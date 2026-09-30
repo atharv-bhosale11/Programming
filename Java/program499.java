@@ -4,7 +4,7 @@ class program499
     {
         String str = "Java Programming Language";
 
-        String words[] = str.split(" ");
+        String words[] = str.split(" "); 
 
         for(String word : words)
         {
