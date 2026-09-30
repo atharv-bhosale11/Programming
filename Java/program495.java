@@ -6,7 +6,7 @@ class program495
     {
         String str = "aabbccddefg";
 
-        HashMap<Character, Integer> hmap = new HashMap<Character, Integer>();
+        HashMap<Character, Integer> hmap = new HashMap<Character, Integer>(); 
 
         for(char ch : str.toCharArray())
         {
