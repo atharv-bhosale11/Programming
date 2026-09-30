@@ -7,7 +7,7 @@ class program463
         HashMap<String,String> contacts = new HashMap<String,String>();
 
         contacts.put("Sujit","9876543210");
-        contacts.put("Rahul","9123456780");
+        contacts.put("Jay","9123456780"); 
         contacts.put("Amit","9988776655");
         contacts.put("Rohit","9090909090");
 
