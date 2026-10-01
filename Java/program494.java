@@ -9,6 +9,6 @@ class program494
             iSum += Integer.parseInt(str);
         }
 
-        System.out.println("Sum : " + iSum);
+        System.out.println("Sum : "+iSum);
     }
 }
