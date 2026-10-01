@@ -21,10 +21,8 @@ class program503
 {
     public static void main(String A[])
     { 
-        Employee eobj =
-            new Employee("Atharv",50000,10000);
+        Employee eobj = new Employee("John",50000,10000);
 
-        System.out.println(
-            eobj.TotalSalary());
+        System.out.println(eobj.TotalSalary());
     }
 }
