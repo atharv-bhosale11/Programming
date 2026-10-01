@@ -19,14 +19,12 @@ class program504
             if(withdraw > balance)
             {
                 throw new
-                InsufficientBalanceException(
-                    "Insufficient Balance");
+                InsufficientBalanceException("Insufficient Balance");
             }
         }
         catch(Exception e)
         {
-            System.out.println(
-                e.getMessage());
+            System.out.println(e.getMessage());
         }
     }
 }
