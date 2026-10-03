@@ -7,8 +7,7 @@ class program508
             {
                 for(int i = 1; i <= 5; i++)
                 {
-                    System.out.println(
-                        "Thread Running : " + i);
+                    System.out.println("Thread Running : " + i);
                 }
             };
 
