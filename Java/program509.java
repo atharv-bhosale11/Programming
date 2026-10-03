@@ -4,7 +4,7 @@ interface Arithmetic
 }
 
 class program509
-{
+{ 
     public static void main(String A[])
     {
         Arithmetic Add = (x,y) -> x + y;
