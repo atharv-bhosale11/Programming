@@ -24,7 +24,7 @@ class program506
     public static void main(String A[])
     {
         ArrayList<Employee> list =
-            new ArrayList<Employee>();
+ new ArrayList<Employee>();
 
         list.add(new Employee(3,"Atharv",70000));
         list.add(new Employee(1,"Rahul",50000));
