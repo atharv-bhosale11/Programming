@@ -2,7 +2,7 @@ import java.util.function.Predicate;
 
 class program522
 {
-    public static void main(String A[])
+    public static void main(String A[]) 
     {
         Predicate<Integer> pobj = no -> no > 50;
 
