@@ -15,7 +15,7 @@ class program519
     {
         MyThread mobj = new MyThread();
 
-        mobj.start();
+        mobj.start(); 
 
         for(int i = 1; i <= 5; i++)
         {
