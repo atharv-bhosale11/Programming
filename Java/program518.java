@@ -1,5 +1,5 @@
 import java.util.function.Predicate;
-
+ 
 class program522
 {
     public static void main(String A[]) 
