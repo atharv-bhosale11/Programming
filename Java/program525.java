@@ -27,9 +27,9 @@ class program525
 
             bobj.close();
 
-            System.out.println("Lines      : " + iLines);
-            System.out.println("Words      : " + iWords);
-            System.out.println("Characters : " + iChars);
+            System.out.println("Lines        : " + iLines);
+            System.out.println("Words        : " + iWords);
+            System.out.println("Characters   : " + iChars);
         }
         catch(Exception e)
         {
