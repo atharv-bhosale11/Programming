@@ -7,16 +7,13 @@ class program523
     {
         try
         {
-            FileWriter fobj =
-                new FileWriter("Demo.txt");
+            FileWriter fobj = new FileWriter("Demo.txt");
  
-            fobj.write(
-                "Welcome to Java File Handling");
+            fobj.write("Welcome to Java File Handling");
 
             fobj.close();
 
-            System.out.println(
-                "Data written successfully");
+            System.out.println("Data written successfully");
         }
         catch(IOException e)
         {
