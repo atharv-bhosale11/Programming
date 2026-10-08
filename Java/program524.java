@@ -6,11 +6,9 @@ class program524
     {
         try
         {
-            FileReader fobj =
-                new FileReader("Demo.txt");
+            FileReader fobj = new FileReader("Demo.txt");
 
-            BufferedReader bobj =
-                new BufferedReader(fobj);
+            BufferedReader bobj =  new BufferedReader(fobj);
 
             String str = null;
 
