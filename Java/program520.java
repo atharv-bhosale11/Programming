@@ -7,7 +7,7 @@ class MyRunnable implements Runnable
             System.out.println("Child Thread : " + i);
         }
     }
-}
+} 
  
 class program520
 {
