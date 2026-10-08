@@ -16,7 +16,7 @@ class program520
         MyRunnable mobj = new MyRunnable();
 
         Thread tobj = new Thread(mobj);
-
+ 
         tobj.start();
 
         for(int i = 1; i <= 5; i++)
