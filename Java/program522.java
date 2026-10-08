@@ -9,7 +9,7 @@ class program522
         StringTokenizer sobj = new StringTokenizer(str);
 
         while(sobj.hasMoreTokens())
-        {
+        { 
             System.out.println(sobj.nextToken());
         }
     }
