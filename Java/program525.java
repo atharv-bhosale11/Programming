@@ -10,9 +10,7 @@ class program525
 
         try
         {
-            BufferedReader bobj =
-                new BufferedReader(
-                    new FileReader("Demo.txt"));
+            BufferedReader bobj = new BufferedReader(new FileReader("Demo.txt"));
 
             String str = null;
 
