@@ -5,7 +5,7 @@ class program524
     public static void main(String A[])
     {
         try
-        {
+        { 
             FileReader fobj = new FileReader("Demo.txt");
 
             BufferedReader bobj =  new BufferedReader(fobj);
