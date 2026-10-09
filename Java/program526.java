@@ -6,9 +6,7 @@ class program526
     {
         try
         {
-            BufferedReader bobj =
-                new BufferedReader(
-                    new FileReader("Demo.txt"));
+            BufferedReader bobj =  new BufferedReader( new FileReader("Demo.txt"));
 
             BufferedWriter wobj =
                 new BufferedWriter(
