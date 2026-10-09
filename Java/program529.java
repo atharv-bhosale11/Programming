@@ -12,9 +12,7 @@ class program529
 
             System.out.println("Path : "+ fobj.getAbsolutePath());
 
-            System.out.println("Size : "
-                                + fobj.length()
-                                + " bytes");
+            System.out.println("Size : "+ fobj.length() + " bytes");
         }
     }
 }
