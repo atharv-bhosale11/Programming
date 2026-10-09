@@ -12,8 +12,7 @@ class program530
         }
         else
         {
-            System.out.println(
-                "Directory Already Exists");
+            System.out.println("Directory Already Exists");
         }
     }
 }
