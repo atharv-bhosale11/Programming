@@ -7,7 +7,7 @@ class program527
         try
         {
             FileWriter fobj = new FileWriter("Demo.txt", true);
-
+ 
             fobj.write("\nNew Data Added");
 
             fobj.close();
