@@ -7,7 +7,7 @@ class program530
         File fobj = new File("ABC");
 
         if(fobj.mkdir())
-        {
+        { 
             System.out.println("Directory Created");
         }
         else
