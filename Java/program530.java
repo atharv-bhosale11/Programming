@@ -4,12 +4,11 @@ class program530
 {
     public static void main(String A[])
     {
-        File fobj = new File("Marvellous");
+        File fobj = new File("ABC");
 
         if(fobj.mkdir())
         {
-            System.out.println(
-                "Directory Created");
+            System.out.println("Directory Created");
         }
         else
         {
