@@ -20,10 +20,8 @@ class program534
 
         List<Double> dList = Arrays.asList(10.5,20.5,30.5);
 
-        System.out.println(
-            "Integer Sum : " + CalculateSum(iList));
+        System.out.println("Integer Sum : " + CalculateSum(iList));
 
-        System.out.println(
-            "Double Sum : " + CalculateSum(dList));
+        System.out.println("Double Sum : " + CalculateSum(dList));
     }
 }
