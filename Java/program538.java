@@ -3,7 +3,7 @@ class Parent
     int iValue = 100;
 
     void Display()
-    {
+    { 
         System.out.println("Parent Class Method"); 
     }
 }
