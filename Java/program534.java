@@ -16,11 +16,9 @@ class program534
 
     public static void main(String A[])
     {
-        List<Integer> iList =
-            Arrays.asList(10,20,30,40);
+        List<Integer> iList = Arrays.asList(10,20,30,40);
 
-        List<Double> dList =
-            Arrays.asList(10.5,20.5,30.5);
+        List<Double> dList = Arrays.asList(10.5,20.5,30.5);
 
         System.out.println(
             "Integer Sum : " + CalculateSum(iList));
