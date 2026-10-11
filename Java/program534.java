@@ -4,7 +4,7 @@ class program534
 {
     public static double CalculateSum(List<? extends Number> list)
     {
-        double dSum = 0;
+        double dSum = 0; 
 
         for(Number no : list)
         {
