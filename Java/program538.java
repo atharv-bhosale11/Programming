@@ -14,11 +14,9 @@ class Child extends Parent
 
     void Show()
     {
-        System.out.println(
-            "Parent Value : " + super.iValue);
+        System.out.println("Parent Value : " + super.iValue);
 
-        System.out.println(
-            "Child Value : " + iValue);
+        System.out.println("Child Value : " + iValue);
 
         super.Display();
     }
