@@ -1,7 +1,7 @@
-class Employee
+class Employee 
 {
     String strName = "Atharv";
-    int iId = 101;
+    int iId = 1001;
 }
 
 class Manager extends Employee
