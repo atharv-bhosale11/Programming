@@ -2,7 +2,7 @@ class Shape
 {
     void Display()
     {
-        System.out.println("This is a Shape");
+        System.out.println("This is a Shape"); 
     }
 }
 
