@@ -2,7 +2,7 @@ class Parent
 {
     void Display()
     {
-        System.out.println("Parent Class Method");
+        System.out.println("Parent Class Method"); 
     }
 }
 
