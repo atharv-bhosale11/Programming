@@ -1,9 +1,9 @@
-class Person
+class Person 
 {
     String strName;
 
     Person(String str)
-    {
+    { 
         strName = str;
         System.out.println("Person Constructor");
     }
