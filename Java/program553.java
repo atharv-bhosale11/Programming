@@ -36,4 +36,4 @@ class program553
         eobj = new Manager();
         eobj.CalculateBonus();
     }
-}
+} 
