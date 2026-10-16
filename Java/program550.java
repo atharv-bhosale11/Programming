@@ -1,6 +1,6 @@
 class Employee
 {
-    String strName;
+    String strName; 
 
     Employee(String str)
     {
