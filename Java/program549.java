@@ -15,7 +15,7 @@ class Rectangle extends Shape
     }
 }
 
-class program549
+class program549 
 {
     public static void main(String A[])
     {
