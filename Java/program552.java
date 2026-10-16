@@ -5,7 +5,7 @@ class Employee
         System.out.println("Basic Salary Calculation");
     }
 }
-
+ 
 class Manager extends Employee
 {
     @Override
@@ -23,6 +23,6 @@ class program552
     {
         Manager mobj = new Manager();
 
-        mobj.CalculateSalary();
+        mobj.CalculateSalary(); 
     }
 }
