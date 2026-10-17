@@ -10,7 +10,7 @@ abstract class Employee
     abstract double CalculateSalary();
 }
 
-class FullTimeEmployee extends Employee
+class FullTimeEmployee extends Employee 
 {
     double dMonthlySalary;
 
