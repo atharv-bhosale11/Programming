@@ -44,20 +44,16 @@ class PartTimeEmployee extends Employee
     }
 }
 
-class program21
+class program556
 {
     public static void main(String A[])
     {
         Employee eobj;
 
         eobj = new FullTimeEmployee("Atharv", 50000);
-        System.out.println(
-            eobj.strName + " Salary : " +
-            eobj.CalculateSalary());
+        System.out.println(eobj.strName + " Salary : " +eobj.CalculateSalary());
 
         eobj = new PartTimeEmployee("Rahul", 80, 200);
-        System.out.println(
-            eobj.strName + " Salary : " +
-            eobj.CalculateSalary());
+        System.out.println(eobj.strName + " Salary : " +eobj.CalculateSalary());
     }
 }
