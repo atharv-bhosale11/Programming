@@ -23,7 +23,7 @@ class program560
 
         aobj.Display();
 
-        // Downcasting
+        // Downcasting 
         Dog dobj = (Dog)aobj;
 
         dobj.Display();
