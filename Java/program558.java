@@ -20,7 +20,7 @@ class Manager extends Employee
     }
 }
 
-class program23
+class program558
 {
     public static void main(String A[])
     {
