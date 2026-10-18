@@ -5,7 +5,7 @@ class Animal
         System.out.println("Animal Object");
         return new Animal();
     }
-}
+} 
 
 class Dog extends Animal
 {
