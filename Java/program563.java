@@ -32,9 +32,9 @@ class program563
 {
     public static void main(String A[])
     {
-        Student sobj1 = new Student(101, "Atharv");
-        Student sobj2 = new Student(101, "Aryan");
-        Student sobj3 = new Student(102, "Aryan");
+        Student sobj1 = new Student(101, "Yash");
+        Student sobj2 = new Student(101, "Nilam");
+        Student sobj3 = new Student(102, "Nilam");
 
         System.out.println(sobj1.equals(sobj2));
         System.out.println(sobj1.equals(sobj3));
