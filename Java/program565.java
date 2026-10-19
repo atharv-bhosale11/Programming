@@ -3,7 +3,7 @@ class Student implements Cloneable
     int iRollNo;
     String strName;
 
-    Student(int iRollNo, String strName)
+    Student(int iRollNo, String strName) 
     {
         this.iRollNo = iRollNo;
         this.strName = strName;
@@ -26,7 +26,7 @@ class program565
 {
     public static void main(String A[]) throws CloneNotSupportedException
     {
-        Student sobj1 = new Student(101, "Atharv");
+        Student sobj1 = new Student(101, "Prem");
 
         Student sobj2 = (Student)sobj1.clone();
 
