@@ -14,7 +14,7 @@ class Student extends Person
     }
 }
 
-class program33
+class program568
 {
     public static void main(String A[])
     {
