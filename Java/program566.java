@@ -1,6 +1,6 @@
 class Vehicle
 {
-    String strBrand = "Toyota";
+    String strBrand = "Toyota"; 
 }
 
 class Car extends Vehicle
