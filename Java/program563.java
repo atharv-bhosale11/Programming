@@ -3,7 +3,7 @@ class Student
     int iRollNo;
     String strName;
 
-    Student(int iRollNo, String strName)
+    Student(int iRollNo, String strName) 
     {
         this.iRollNo = iRollNo;
         this.strName = strName;
