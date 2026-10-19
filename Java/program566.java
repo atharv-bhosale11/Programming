@@ -14,7 +14,7 @@ class Car extends Vehicle
     }
 }
 
-class program31
+class program566
 {
     public static void main(String A[])
     {
