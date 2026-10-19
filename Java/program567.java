@@ -6,7 +6,7 @@ class Animal
     }
 }
 
-class Dog extends Animal
+class Dog extends Animal 
 {
     void Bark()
     {
