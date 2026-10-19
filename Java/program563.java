@@ -18,7 +18,7 @@ class Student
         }
 
         if(obj == null || getClass() != obj.getClass())
-        {
+        { 
             return false;
         }
 
@@ -28,7 +28,7 @@ class Student
     }
 }
 
-class program563
+class program564
 {
     public static void main(String A[])
     {
