@@ -1,5 +1,5 @@
 class Vehicle
-{
+{ 
     String strBrand = "Toyota";
 }
 
