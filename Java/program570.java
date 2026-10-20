@@ -17,7 +17,7 @@ class Dog extends Animal
     }
 }
 
-class program35
+class program570
 {
     public static void main(String A[])
     {
