@@ -22,7 +22,7 @@ class Child extends Parent
     }
 }
 
-class program36
+class program571
 {
     public static void main(String A[])
     {
