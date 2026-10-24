@@ -25,7 +25,7 @@ class program572
         System.out.println("Addition of 2 numbers : " + cobj.Add(10, 20));
  
         System.out.println("Addition of 3 numbers : " + cobj.Add(10, 20, 30));
-
+ 
         System.out.println("Addition of decimal numbers : " + cobj.Add(10.5, 20.5));
     }
 }
