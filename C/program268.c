@@ -18,7 +18,7 @@ int main()
     }
 
     pResult = strstr(strName, "in C");
-
+ 
     if(pResult != NULL)
     {
         printf("Substring found: %s\n", pResult);
