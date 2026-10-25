@@ -20,7 +20,7 @@ int main()
     for(int i = 0; i < iSize; i++)
     {
         printf("%d ", Arr[i]);
-    }
+    } 
 
     pResult = bsearch(&iKey, Arr, iSize, sizeof(int), Compare);
 
