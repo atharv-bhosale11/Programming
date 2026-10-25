@@ -8,7 +8,7 @@ int main()
     char strCopy[50];
 
     printf("Length of Name: %zu\n", strlen(strName1));
-
+ 
     strcpy(strCopy, strName1);
     printf("Copied String: %s\n", strCopy);
 
