@@ -3,7 +3,7 @@
 
 int main()
 {
-    char strSource[] = "Hello World";
+    char strSource[] = "Hello World"; 
     char strDestination[20];
 
     memcpy(strDestination, strSource, strlen(strSource) + 1);
