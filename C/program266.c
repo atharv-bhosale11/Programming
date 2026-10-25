@@ -10,7 +10,7 @@ int main()
     printf("Uppercase Character: %c\n", toupper((unsigned char)ch1));
 
     printf("\nOriginal Character 2: %c\n", ch2);
-    printf("Lowercase Character: %c\n", tolower((unsigned char)ch2));
+    printf("Lowercase Character: %c\n", tolower((unsigned char)ch2)); 
 
     return 0;
 }
