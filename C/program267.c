@@ -4,7 +4,7 @@
 int main()
 {
     double dNo = 25.0;
-    double dBase = 2.0;
+    double dBase = 2.0; 
     double dExponent = 3.0;
     double dValue = 5.7;
 
