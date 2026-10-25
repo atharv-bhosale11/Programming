@@ -15,8 +15,7 @@ int main()
     strcat(strName1, strName2);
     printf("Concatenated String: %s\n", strName1);
 
-    printf("Comparison Result: %d\n",
-           strcmp("Apple", "Apple"));
+    printf("Comparison Result: %d\n",strcmp("Apple", "Apple"));
 
     return 0;
 }
