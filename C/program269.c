@@ -4,7 +4,7 @@
 int main()
 {
     char strNum1[] = "12345";
-    char strNum2[] = "6789";
+    char strNum2[] = "6789"; 
     char strNum3[] = "250abc";
 
     int iNum = atoi(strNum1);
