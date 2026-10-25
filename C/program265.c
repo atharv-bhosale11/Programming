@@ -3,7 +3,7 @@
 
 int main()
 {
-    char ch1 = 'A';
+    char ch1 = 'A'; 
     char ch2 = '7';
     char ch3 = '@';
 
