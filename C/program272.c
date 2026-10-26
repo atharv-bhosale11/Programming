@@ -5,7 +5,7 @@ int main()
 {
     char strName[10];
     char strArr1[] = "Hello";
-    char strArr2[] = "Hello";
+    char strArr2[] = "Hello"; 
     char strArr3[] = "World";
 
     memset(strName, '*', 5);
