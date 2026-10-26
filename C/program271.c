@@ -5,7 +5,7 @@ int main()
     char strResult[100];
     char strLimited[20];
 
-    int iNo = 100;
+    int iNo = 100; 
     float fPrice = 250.50f;
 
     sprintf(strResult, "Number: %d, Price: %.2f", iNo, fPrice);
