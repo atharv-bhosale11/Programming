@@ -3,7 +3,7 @@
 #include <time.h>
 
 int main()
-{
+{ 
     int iCnt;
 
     srand((unsigned int)time(NULL));
