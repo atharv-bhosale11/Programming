@@ -7,7 +7,7 @@ int main()
     int iNo;
     float fValue;
 
-    sscanf(strData, "%d %f", &iNo, &fValue);
+    sscanf(strData, "%d %f", &iNo, &fValue); 
 
     printf("Integer Value: %d\n", iNo);
     printf("Float Value: %.2f\n", fValue);
