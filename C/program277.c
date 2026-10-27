@@ -10,7 +10,7 @@ int main()
 {
     atexit(DisplayMessage);
 
-    printf("Program started\n");
+    printf("Program started\n"); 
     printf("Performing operations\n");
 
     exit(0);
