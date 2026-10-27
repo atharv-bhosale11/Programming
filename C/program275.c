@@ -13,7 +13,7 @@ int main()
     if(iResult < sizeof(strBuffer)) 
     {
         printf("Output fits in the buffer\n");
-    }
+    } 
     else
     {
         printf("Output was truncated\n");
