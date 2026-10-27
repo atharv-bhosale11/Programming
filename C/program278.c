@@ -3,7 +3,7 @@
 
 int main()
 {
-    char *pValue;
+    char *pValue; 
 
     pValue = getenv("PATH");
 
