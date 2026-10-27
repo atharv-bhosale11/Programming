@@ -18,7 +18,7 @@ int Sum(int iCount, ...)
 
     return iSum;
 }
-
+ 
 int main()
 {
     printf("Sum of 3 numbers: %d\n", Sum(3, 10, 20, 30));
