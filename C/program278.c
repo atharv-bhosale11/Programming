@@ -10,7 +10,7 @@ int main()
     if(pValue != NULL)
     {
         printf("PATH Environment Variable:\n%s\n", pValue);
-    }
+    } 
     else
     {
         printf("Environment variable not found\n");
