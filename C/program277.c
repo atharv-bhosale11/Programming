@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 void DisplayMessage()
-{
+{ 
     printf("Program termination function executed\n");
 }
 
