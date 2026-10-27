@@ -6,7 +6,7 @@ int Sum(int iCount, ...)
     va_list Args;
     int iSum = 0;
     int iCnt;
-
+ 
     va_start(Args, iCount);
 
     for(iCnt = 0; iCnt < iCount; iCnt++)
