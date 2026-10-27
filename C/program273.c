@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main()
-{
+{ 
     int iNo = -25;
     int iDividend = 17;
     int iDivisor = 5;
