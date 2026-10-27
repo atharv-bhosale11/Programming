@@ -5,8 +5,7 @@ int main()
     char strBuffer[20];
     int iNo = 12345;
 
-    int iResult = snprintf(strBuffer, sizeof(strBuffer),
-                           "Number: %d", iNo);
+    int iResult = snprintf(strBuffer, sizeof(strBuffer),"Number: %d", iNo);
 
     printf("Formatted String: %s\n", strBuffer);
     printf("Required Characters: %d\n", iResult);
