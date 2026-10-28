@@ -6,7 +6,7 @@ int main()
 {
     vector<int> Arr;
 
-    Arr.push_back(10);
+    Arr.push_back(10); 
     Arr.push_back(20);
     Arr.push_back(30);
     Arr.push_back(40);
