@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     stack<int> Numbers;
-
+ 
     Numbers.push(10);
     Numbers.push(20);
     Numbers.push(30);
