@@ -24,9 +24,9 @@ int main()
     iChar = fgetc(fp);
     printf("Character at position 6: %c\n", iChar);
 
-    printf("Current position: %ld\n", ftell(fp));
+    printf("Current position: %ld\n", ftell(fp)); 
 
-    rewind(fp);
+    rewind(fp); 
 
     printf("Position after rewind: %ld\n", ftell(fp));
 
