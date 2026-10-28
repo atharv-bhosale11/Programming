@@ -3,7 +3,7 @@
 #include <errno.h>
 
 int main()
-{
+{ 
     FILE *fp;
 
     fp = fopen("missing.txt", "r");
