@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     list<int> Numbers;
-
+ 
     Numbers.push_back(10);
     Numbers.push_back(20);
     Numbers.push_back(30);
