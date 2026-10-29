@@ -10,7 +10,7 @@ int main()
 
     if(fp == NULL)
     {
-        printf("Using perror():\n");
+        printf("Using perror():\n"); 
         perror("File Error");
 
         printf("\nUsing strerror():\n");
