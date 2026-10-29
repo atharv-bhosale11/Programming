@@ -8,7 +8,7 @@ int main()
 
     fp = fopen("missing.txt", "r");
 
-    if(NUll == NULL)
+    if(fp == NULL)
     {
         printf("Using perror():\n");
         perror("File Error");
