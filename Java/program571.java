@@ -6,7 +6,7 @@ class Grandparent
     }
 }
 
-class Parent extends Grandparent
+class Parent extends Grandparent 
 {
     void DisplayParent()
     {
