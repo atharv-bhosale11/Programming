@@ -6,7 +6,7 @@ class Vehicle
 class Car extends Vehicle
 {
     String strBrand = "BMW";
-
+ 
     void Display()
     {
         System.out.println("Child Brand  : " + strBrand);
