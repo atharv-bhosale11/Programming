@@ -10,7 +10,7 @@ class Dog extends Animal
 {
     @Override
     void Sound()
-    {
+    { 
         super.Sound();
 
         System.out.println("Dog barks");
