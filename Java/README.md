@@ -74,13 +74,3 @@ This repository contains Java programs covering fundamental to advanced programm
 ## Repository Structure
 
 Each file demonstrates a specific Java concept with simple examples and explanations through code.
-
-Examples:
-
-* Program1_SumOfDigits.java  
-* Program2_Palindrome.java  
-* Program3_FindMax.java  
-* Program4_FindMin.java  
-* Program5_MultiplicationTable.java  
-* Program17_PrimeCheck.java  
-* Program19_Even
