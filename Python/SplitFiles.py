@@ -5,6 +5,8 @@ def split_file(filename, lines_per_file):
     with open(filename, "r") as file:
         lines = file.readlines()
 
+    file_count = 1
+
     for i in range(0, len(lines), lines_per_file):
 
         new_filename = f"part{file_count}.txt"
