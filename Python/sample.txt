@@ -1,1 +1,28 @@
-
+Python is a popular programming language.
+Python is easy to learn and easy to use.
+File handling is an important Python concept.
+Python supports reading, writing, and appending files.
+File handling is useful for storing and processing data.
+Python is widely used in automation and data science.
+Data science uses Python libraries to analyze data.
+Python supports object-oriented programming.
+File handling is an important Python concept.
+A file can contain words, sentences, and numbers.
+Python can search for a word inside a text file.
+Python can replace words in an existing file.
+Python can count lines, words, and characters.
+Python can copy data from one file to another.
+Python can merge the contents of two files.
+Python can read a file one line at a time.
+Python can display the longest word in a file.
+Python can find the most frequent word in a file.
+Python can compare the contents of two files.
+Python can remove duplicate lines from a file.
+Python can split a large file into smaller files.
+Python can reverse the order of lines in a file.
+Python can create, rename, and delete files.
+Python can check whether a file exists.
+Python makes file operations simple and practical.
+Learning Python requires regular practice.
+Practice Python programs every day.
+Learning Python requires regular practice.
