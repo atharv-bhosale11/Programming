@@ -23,4 +23,7 @@ def second_most_frequent(filename):
             print("Second Most Frequent Word:", sorted_words[1][0])
             print("Frequency:", sorted_words[1][1])
 
+    except FileNotFoundError:
+        print("File does not exist.")
+        
 second_most_frequent("sample.txt")
