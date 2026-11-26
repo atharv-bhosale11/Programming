@@ -2,9 +2,10 @@ from collections import Counter
 
 def first_non_repeating(numbers):
 
-    frequency = Counter()
+    frequency = Counter(numbers)
 
-    result = next(
+    result = next
+    (
         filter(lambda x: frequency[x] == 1, numbers),
         None
     )
@@ -18,3 +19,4 @@ def first_non_repeating(numbers):
 numbers = [4, 5, 1, 2, 0, 4, 1, 2]
 
 first_non_repeating(numbers)
+ 
