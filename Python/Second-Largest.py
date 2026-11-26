@@ -17,7 +17,6 @@ def second_largest(numbers):
     else:
         print("Second Largest Element:", second)
 
-
 numbers = [10, 25, 45, 30, 45, 15, 40]
 
 second_largest(numbers)
