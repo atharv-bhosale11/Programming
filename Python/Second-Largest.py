@@ -12,7 +12,7 @@ def second_largest(numbers):
         elif num > second and num != largest:
             second = num
 
-    if second == float('inf'):
+    if second == float('-inf'):
         print("Second Largest Element Does Not Exist.")
     else:
         print("Second Largest Element:", second)
