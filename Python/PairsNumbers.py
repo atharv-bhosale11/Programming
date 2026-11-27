@@ -11,7 +11,7 @@ def find_pairs(numbers, target):
 
     if pairs:
         for pair in pairs:
-            print(pairs)
+            print(pair)
     else:
         print("No Pairs Found.")
 
@@ -19,4 +19,4 @@ def find_pairs(numbers, target):
 numbers = [2, 4, 3, 5, 7, 8, 1, 6]
 target = 9
 
-find_pairs(numbers, target)
+find_pairs(numbers, target) 
